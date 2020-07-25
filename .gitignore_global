@@ -1,8 +1,5 @@
+# This is a list of rules for ignoring files in every Git repositories on your computer.
 # See https://help.github.com/articles/ignoring-files
-
-# Bower #
-#########
-bower_components
 
 # Compiled Source #
 ###################
@@ -22,10 +19,7 @@ build/Release
 ###########################
 lib-cov
 coverage
-.ync-output
-rerun.txt
-spec/reports
-spec/tmp
+.nyc-output
 test/tmp
 test/version_tmp
 htmlcov/
@@ -57,7 +51,6 @@ db.sqlite3-journal
 # Env #
 #######
 .env
-.env*
 
 # eslint #
 ##########
@@ -141,6 +134,7 @@ pids
 # Temporary Directories #
 #########################
 tmp
+/tmp/*
 
 # VS Code #
 ###########
