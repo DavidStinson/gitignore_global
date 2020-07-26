@@ -4,14 +4,15 @@
 # GitHub maintains a repository of items that can generally be gitignored 
 # globally safely at: https://github.com/github/gitignore/tree/master/Global
 
-# GitHub also maintains a repository of language specific items that should
+# GitHub also maintains a repository of language-specific items that should
 # typically be ignored on a per-project basis with a .gitignore in that
 # project's root directory. 
 # This repository can be found at: https://github.com/github/gitignore
 
 # This file DOES include items that would typically not be gitignored globally
 # for simplicity during the course, but this may cause issues as you further
-# your education post-SEI. These items are denoted when used here.
+# your education post-SEI. These items are denoted when used here and are kept 
+# to a minimum.
 
 ###############################################################################
 #   The items in this section are generally safe be gitignored globally and   #
@@ -135,9 +136,9 @@ tags
 ###############################################################################
 #   The items in this section may not typically be gitignored globally and    #
 #               may cause future projects to break if left here.              #
-#  ** However if they are removed from here you MUST add them back to the **  #
-#   ** projects they are applicable to by placing a .gitignore containing **  #
-#   ** the items to be gitignored in the root directory of each project! **   #
+# ** However, if you remove them from here, you MUST add them back to the **  #
+#  ** projects they apply to by placing a .gitignore containing the items**   #
+#           ** to be gitignored in each project's root directory. **          #
 ###############################################################################
 
 #=========================== Compiled Source Code ============================#
