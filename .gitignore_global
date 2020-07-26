@@ -15,7 +15,7 @@
 # to a minimum.
 
 ###############################################################################
-#   The items in this section are generally safe be gitignored globally and   #
+#   The items in this section are generally safe be globally gitignored and   #
 #         are very unlikely to cause projects to break if left here.          #
 ###############################################################################
 
@@ -140,10 +140,10 @@ tags
 .history/
 
 ###############################################################################
-#   The items in this section may not typically be gitignored globally and    #
+#        The items below are not typically be gitignored globally and         #
 #               may cause future projects to break if left here.              #
 # ** However, if you remove them from here, you MUST add them back to the **  #
-#  ** projects they apply to by placing a .gitignore containing the items**   #
+#  ** projects they apply to by placing a .gitignore containing the items **  #
 #           ** to be gitignored in each project's root directory. **          #
 ###############################################################################
 
