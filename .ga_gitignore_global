@@ -183,3 +183,7 @@ node_modules
 # Byte-compiled #
 *.py[cd]
 __pycache__/
+.python-version
+
+#================================== React ====================================#
+.eslintcache
