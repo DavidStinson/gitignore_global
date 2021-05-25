@@ -121,7 +121,7 @@ $RECYCLE.BIN/
 tags
 
 #============================ Visual Studio Code =============================#
-# .vscode excuding certain .json files #
+# .vscode excluding certain .json files #
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
