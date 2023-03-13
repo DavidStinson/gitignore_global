@@ -51,6 +51,7 @@
 *.deb
 *.rpm
 *.msi
+*.msix
 *.msm
 *.msp
 *.txz
